@@ -4,7 +4,7 @@ Fetches balances from https://www.oikocredit.nl and returns them as transactions
 
 ## Extension Setup
 
-You can get a unsigned version of this extension from the [GitHub releases](https://github.com/adri/moneymoney-oikocredit-nl/releases/latest) page.
+You can get a signed version of this extension from the [GitHub releases](https://github.com/adri/moneymoney-oikocredit-nl/releases/latest) page.
 Once downloaded, move `oikokredit.lua` to your MoneyMoney Extensions folder.
 
 ## Account Setup in MoneyMoney
